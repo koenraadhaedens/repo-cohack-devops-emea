@@ -19,3 +19,4 @@ module coHackModule 'module.bicep' = {
 }
 
 output appServiceName string = coHackModule.outputs.appServiceName
+ 
